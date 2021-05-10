@@ -1,5 +1,5 @@
 // parei 52:42 aula 03
-import Routes from "Routes"
+import Routes from "Routes";
 
 function App() {
   return (
