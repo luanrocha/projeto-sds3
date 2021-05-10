@@ -5,8 +5,8 @@ import { SaleSum } from 'types/sale'
 import { useEffect, useState } from 'react';
 
 type ChartData = {
-    labels: string[],
-    series: number[]
+    labels: string[];
+    series: number[];
 }
 
 const DonutChart = () => {
